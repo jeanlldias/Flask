@@ -1,0 +1,1 @@
+from app import app #do pacote app importe variavel app
